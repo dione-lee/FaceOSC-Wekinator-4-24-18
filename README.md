@@ -12,6 +12,6 @@ Please also download Wekinator from http://www.wekinator.org/downloads/ and the 
 
 Additionally, we will be using the oscP5 library and the minim library in Processing so please make sure you have those libraries installed as well.
 
-- Dione
+Dione
 
 
